@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(24, 24, 24);
+    margin: 0;
+    padding: 0;
+}
+.tela{
+    padding: 10px;
+    margin: auto;
+    margin-top: 10%;
+    height: 45vh;
+    width: 30vw;
+    background-color:white;
+}
+a{
+    text-decoration: none;
+}
